@@ -8,4 +8,4 @@ It was my first real contact with the C# programming language and the .NET frame
 
 
 
-** To run you must have .NET installed and use the 'dotnet run' command.
+** To run you must have .NET installed and use the 'dotnet run' command inside the ConsoleApp folder.
