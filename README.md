@@ -1,4 +1,4 @@
-# C# - ConsoleApp
+# C# ConsoleApp
 
 Simple console application I had to develop as part of an internship program selection.
 
